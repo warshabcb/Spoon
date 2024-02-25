@@ -4,7 +4,7 @@ Notas Generales
 
 ## Problemas con Informacion con Tildes
 
-Se puede notar el la fila numero 4 contiene una palabra con tilde.
+Se puede notar el la fila numero 4 contiene una palabra con tilde. Archivo con Data Ejemplo. ```/Archivos/Frutas.txt```
 ![Image text](Imagenes/Data_con_Tildes.png)
 
 Esto se soluciona seleccionando el ```File encoding``` con el formato  ```UTF-8```

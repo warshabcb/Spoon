@@ -2,7 +2,8 @@
 Notas Generales
 
 
-## Problemas con Inrformacion con Tildes
+## Problemas con Informacion con Tildes
 
 Ejemplo 
-![Screenshot](https://github.com/warshabcb/Spoon/tree/main/Imagenes/Data_con_Tildes.png)
+![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
+

@@ -1,6 +1,8 @@
 # Spoon
 Notas Generales
 
+## Instalar Java on Windows
+-  Link (```https://www.java.com/es/download/```).
 
 ## Problemas con Informacion con Tildes
 
